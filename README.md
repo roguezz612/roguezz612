@@ -2,8 +2,8 @@
 
 👀 | Me chamo, Micaio! <br>
 🎓 | Bacharelando em Design - Faculdade Méliès <br>
-💻 | Interesses em desenvolvimento Web e UX/UI design. <br>
-🚀 | Sempre explorando novos conhecimentos nesse universo Tech. <br>
+💻 | Desenvolvimento Web e UX/UI design. <br>
+🚀 | Explorando novos conhecimentos nesse universo Tech. <br>
 ✨ | Espero poder contribuir com todos!
 
 ## Minhas Tecnologias
