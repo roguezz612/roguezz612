@@ -32,4 +32,4 @@ width="50px">
 
 ---
 
-![Micaio GitHub stats](https://github-readme-stats.vercel.app/api?username=roguezz612&theme=github_dark_icons=true)
+![Micaio GitHub stats](https://github-readme-stats.vercel.app/api?username=roguezz612&theme=github_dark)
