@@ -1,10 +1,10 @@
 # Hello world! Bem-Vindos ao meu GitHub! ✨
 
-👀 | Me chamo, Micaio! <br>
-🎓 | Bacharelando em Design - Faculdade Méliès <br>
-💻 | Desenvolvimento Web e UX/UI design. <br>
-🚀 | Explorando novos conhecimentos nesse universo Tech. <br>
-✨ | Espero poder contribuir com todos!
+👀 | My name is Micaio! <br>
+🎓 | Bachelor in Design - Faculdade Méliès <br>
+💻 | Web development and UX/UI design. <br>
+🚀 | Exploring into this tech universe. <br>
+✨ | I hope I can contribute to everyone!
 
 ## Minhas Tecnologias
 
