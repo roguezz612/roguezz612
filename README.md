@@ -14,8 +14,6 @@ width="60px">
 width="60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 width="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"
-width="50px">
 
 ## Ferramentas
 
